@@ -6,3 +6,5 @@ python-dotenv
 groq
 google-genai
 langchain-groq
+arxiv
+wikipedia
