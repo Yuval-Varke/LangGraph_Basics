@@ -35,3 +35,5 @@ def make_default_graph():
 
     agent=graph_workflow.compile()
     return agent
+
+agent=make_default_graph()
