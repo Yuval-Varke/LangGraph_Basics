@@ -13,4 +13,3 @@ langgraph-cli[inmem]
 langchain-google-genai
 faiss-cpu
 sentence-transformers
-langchainhub
