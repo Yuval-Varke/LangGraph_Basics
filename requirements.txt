@@ -10,3 +10,6 @@ arxiv
 wikipedia
 langchain_tavily
 langgraph-cli[inmem]
+langchain-google-genai
+faiss-cpu
+sentence-transformers
